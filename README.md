@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Projeto Git/GitHub BootCamp Dio SpreadFullstackDeveloper
+# BootCamp Dio SpreadFullstackDeveloper
+Desafio de Projeto Git/GitHub 
